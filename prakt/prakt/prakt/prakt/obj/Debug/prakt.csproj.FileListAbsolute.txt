@@ -1,0 +1,33 @@
+C:\Users\sss\source\repos\prakt\prakt\bin\Debug\prakt.exe.config
+C:\Users\sss\source\repos\prakt\prakt\bin\Debug\prakt.exe
+C:\Users\sss\source\repos\prakt\prakt\bin\Debug\prakt.pdb
+C:\Users\sss\source\repos\prakt\prakt\obj\Debug\prakt.csproj.AssemblyReference.cache
+C:\Users\sss\source\repos\prakt\prakt\obj\Debug\prakt.csproj.SuggestedBindingRedirects.cache
+C:\Users\sss\source\repos\prakt\prakt\obj\Debug\prakt.Form1.resources
+C:\Users\sss\source\repos\prakt\prakt\obj\Debug\prakt.Properties.Resources.resources
+C:\Users\sss\source\repos\prakt\prakt\obj\Debug\prakt.csproj.GenerateResource.cache
+C:\Users\sss\source\repos\prakt\prakt\obj\Debug\prakt.csproj.CoreCompileInputs.cache
+C:\Users\sss\source\repos\prakt\prakt\obj\Debug\prakt.exe
+C:\Users\sss\source\repos\prakt\prakt\obj\Debug\prakt.pdb
+C:\Users\sss\Desktop\ПРКАТИКА 4 КУРС\prakt\prakt\bin\Debug\prakt.exe.config
+C:\Users\sss\Desktop\ПРКАТИКА 4 КУРС\prakt\prakt\bin\Debug\prakt.exe
+C:\Users\sss\Desktop\ПРКАТИКА 4 КУРС\prakt\prakt\bin\Debug\prakt.pdb
+C:\Users\sss\Desktop\ПРКАТИКА 4 КУРС\prakt\prakt\obj\Debug\prakt.csproj.AssemblyReference.cache
+C:\Users\sss\Desktop\ПРКАТИКА 4 КУРС\prakt\prakt\obj\Debug\prakt.csproj.SuggestedBindingRedirects.cache
+C:\Users\sss\Desktop\ПРКАТИКА 4 КУРС\prakt\prakt\obj\Debug\prakt.Form1.resources
+C:\Users\sss\Desktop\ПРКАТИКА 4 КУРС\prakt\prakt\obj\Debug\prakt.Properties.Resources.resources
+C:\Users\sss\Desktop\ПРКАТИКА 4 КУРС\prakt\prakt\obj\Debug\prakt.csproj.GenerateResource.cache
+C:\Users\sss\Desktop\ПРКАТИКА 4 КУРС\prakt\prakt\obj\Debug\prakt.csproj.CoreCompileInputs.cache
+C:\Users\sss\Desktop\ПРКАТИКА 4 КУРС\prakt\prakt\obj\Debug\prakt.exe
+C:\Users\sss\Desktop\ПРКАТИКА 4 КУРС\prakt\prakt\obj\Debug\prakt.pdb
+C:\Users\Nikita\Desktop\2022\ПРКАТИКА 4 КУРС\prakt\prakt\bin\Debug\prakt.exe.config
+C:\Users\Nikita\Desktop\2022\ПРКАТИКА 4 КУРС\prakt\prakt\bin\Debug\prakt.exe
+C:\Users\Nikita\Desktop\2022\ПРКАТИКА 4 КУРС\prakt\prakt\bin\Debug\prakt.pdb
+C:\Users\Nikita\Desktop\2022\ПРКАТИКА 4 КУРС\prakt\prakt\obj\Debug\prakt.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\2022\ПРКАТИКА 4 КУРС\prakt\prakt\obj\Debug\prakt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikita\Desktop\2022\ПРКАТИКА 4 КУРС\prakt\prakt\obj\Debug\prakt.Form1.resources
+C:\Users\Nikita\Desktop\2022\ПРКАТИКА 4 КУРС\prakt\prakt\obj\Debug\prakt.Properties.Resources.resources
+C:\Users\Nikita\Desktop\2022\ПРКАТИКА 4 КУРС\prakt\prakt\obj\Debug\prakt.csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\2022\ПРКАТИКА 4 КУРС\prakt\prakt\obj\Debug\prakt.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\2022\ПРКАТИКА 4 КУРС\prakt\prakt\obj\Debug\prakt.exe
+C:\Users\Nikita\Desktop\2022\ПРКАТИКА 4 КУРС\prakt\prakt\obj\Debug\prakt.pdb
