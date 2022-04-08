@@ -115,9 +115,8 @@
             this.label4.Location = new System.Drawing.Point(15, 225);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(18, 26);
+            this.label4.Size = new System.Drawing.Size(0, 26);
             this.label4.TabIndex = 6;
-            this.label4.Text = ".";
             // 
             // label5
             // 
@@ -133,7 +132,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.Info;
+            this.BackColor = System.Drawing.Color.Ivory;
             this.ClientSize = new System.Drawing.Size(1260, 655);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
