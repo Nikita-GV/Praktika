@@ -28,8 +28,8 @@ namespace prakt
             }
             else { 
 
-            string st = "Исходный массив ";
-            string st2 = "Отсортированный массив ";
+            string st = "Исходный массив (не должен превышать 20 элементов)\n \n";
+            string st2 = "Отсортированный массив \n\n";
             label2.Text = st;
             label3.Text = st2;
             int N;
@@ -42,6 +42,7 @@ namespace prakt
                     if (N > 20)
                     {
                         label4.Text = "Количество элементов массива не должно превышать 20";
+                        textBox1.Clear();
                     }
                     else
                     {
@@ -50,18 +51,21 @@ namespace prakt
                         if (N == 1)
                         {
                             label4.Text = "Нельзя сортировать массив из одного элемента";
+                            textBox1.Clear();
                         }
                         else
                         {
                             if (N == 0)
                             {
                                 label4.Text = "Количество элементов массива не может быть равно 0";
+                                textBox1.Clear();
                             }
                             else
                             {
                                 if (N < 0)
                                 {
-                                    label4.Text = "Введите положительное колличество элементов массива"; //Проверка на положительное число элементов
+                                    label4.Text = "Введите положительное колличество элементов массива";
+                                    textBox1.Clear();                                                       //Проверка на положительное число элементов
                                 }
                                 else
                                 {
@@ -109,6 +113,7 @@ namespace prakt
                 else
                 {
                     label4.Text = "Введите число";
+                    textBox1.Clear();
                 }
             }
 
@@ -126,8 +131,8 @@ namespace prakt
             {
 
 
-                string st = "Исходный массив ";
-                string st2 = "Отсортированный массив ";
+                string st = "Исходный массив (не должен превышать 20 элементов)\n\n";
+                string st2 = "Отсортированный массив \n\n";
                 label2.Text = st;
                 label3.Text = st2;
                 int N;
@@ -140,24 +145,28 @@ namespace prakt
                     if (N > 20)
                     {
                         label4.Text = "Количество элементов массива не должно превышать 20";
+                        textBox1.Clear();
                     }
                     else
                     {
                         if (N == 1)
                         {
                             label4.Text = "Нельзя сортировать массив из одного элемента";
+                            textBox1.Clear();
                         }
                         else
                         {
                             if (N == 0)
                             {
                                 label4.Text = "Количество элементов массива не может быть равно 0";
+                                textBox1.Clear();
                             }
                             else
                             {
                                 if (N < 0)
                                 {
-                                    label4.Text = "Введите положительное колличество элементов массива"; //Проверка на положительное число элементов
+                                    label4.Text = "Введите положительное колличество элементов массива";
+                                    textBox1.Clear();                                                       //Проверка на положительное число элементов
                                 }
                                 else
                                 {
@@ -203,11 +212,20 @@ namespace prakt
                 else
                 {
                     label4.Text = "Введите число";
+                    textBox1.Clear();
                 }
             }
             
         }
 
-        
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
