@@ -67,7 +67,7 @@ namespace prakt
                                     label4.Text = "Введите положительное колличество элементов массива";
                                     textBox1.Clear();                                                       //Проверка на положительное число элементов
                                 }
-                                else
+                                else 
                                 {
                                     int[] mas = new int[N];
                                     Random rand = new Random();
